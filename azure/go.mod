@@ -1,6 +1,6 @@
 module wrongsecrets
 
-go 1.26
+go 1.26.0
 
 toolchain go1.26.6
 
@@ -33,7 +33,7 @@ require (
 	github.com/tmccombs/hcl2json v0.6.9 // indirect
 	github.com/ulikunitz/xz v0.5.16 // indirect
 	github.com/zclconf/go-cty v1.19.0 // indirect
-	golang.org/x/crypto v0.55.0 // indirect
+	golang.org/x/crypto v0.56.0 // indirect
 	golang.org/x/mod v0.40.0 // indirect
 	golang.org/x/sync v0.22.0 // indirect
 	golang.org/x/sys v0.47.0 // indirect
